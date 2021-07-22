@@ -39,7 +39,11 @@ module "dmarc_import" {
 
 ## Examples ##
 
+<<<<<<< HEAD
 No examples.
+=======
+- [Deploying into the default VPC](https://github.com/cisagov/skeleton-tf-module/tree/develop/examples/default_vpc)
+>>>>>>> 97571fd1ae0099a7f69220550741b534d7b287c5
 
 ## Requirements ##
 
